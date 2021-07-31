@@ -71,6 +71,7 @@ int main() {
     //показать всю пленку
     counter = showBubbleSheet(boolBubbleSheet, counter);
   }
+  //showBubbleSheet(boolBubbleSheet, counter);
   std::cout << "Пленка лопнута!" << std::endl;
 }
 
